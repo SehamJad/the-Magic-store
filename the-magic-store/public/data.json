@@ -1,0 +1,62 @@
+[
+  {
+    "name": "handbag",
+    "productsnumber": 10150002,
+    "price": 3000,
+    "description": "This shoulder strap bag has a magnetic closure"
+  },
+  {
+    "name": "shoulderbag",
+    "productsnumber": 10154480,
+    "price": 2500,
+    "description": "This shoulder strap bag has a magnetic closure"
+  },
+  {
+    "name": "sport bags",
+    "productsnumber": 6755004807,
+    "price": 1500,
+    "description": "gym club Sports bag with blue and black color"
+  },
+  {
+    "name": "family bags",
+    "productsnumber": 78004807,
+    "price": 1500,
+    "description": "big suitable bag for family with pink color"
+  },
+  {
+    "name": "school bags",
+    "productsnumber": 43204807,
+    "price": 1000,
+    "description": "medium suitable bag for classes and school with blue color"
+  },
+  {
+    "name": "cross bags",
+    "productsnumber": 9204807,
+    "price": 1600,
+    "description": "smallleather bag with dark blue color"
+  },
+  {
+    "name": "business bags",
+    "productsnumber": 34204807,
+    "price": 3000,
+    "description": " leather bag with darkbrown color and black belt"
+  },
+  {
+    "name": "travel bags",
+    "productsnumber": 34204807,
+    "price": 4000,
+    "description": "big travel leather bag withred hjul"
+  },
+  {
+    "name": "evenings bags",
+    "productsnumber": 34204807,
+    "price": 4000,
+    "description": "blackleather bag wit gold belt"
+  },
+  {
+    "name": "laptop bags",
+    "productsnumber": 134204807,
+    "price": 1000,
+    "description": " good quielty leather bag wit gold belt"
+  }
+]
